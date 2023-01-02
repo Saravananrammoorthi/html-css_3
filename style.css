@@ -1,0 +1,223 @@
+body {
+    font-family: 'Lato', sans-serif;
+    border: 4px solid #000;
+    background-color:red
+}
+
+.container {
+    width: 1200px;
+    margin: auto;
+}
+
+h1 {
+    background-color: darkkhaki;
+    
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box0 {
+    width: 45%;
+    margin: auto;
+    border: 2px solid #000; 
+    background-color: darkkhaki;
+} 
+
+.box0 .box0_1 {
+    width: 45%;
+    margin: auto;
+}
+
+.box0 .box0_2 {
+    width: 38%;
+    margin: auto;
+    background-color: aqua;
+    padding: 2px 2px 4px 4px;
+    border: 2px solid #000;
+    margin: 2px 2px 2px 2px;
+}
+
+.box0_2 img {
+    width: 100px;
+    height: 200px;
+    margin: auto;
+}
+
+.box1 {
+    width: 45%;
+    margin: auto;
+    border: 2px solid #000;
+    background-color: darkkhaki;
+
+} 
+
+.box1 .box0_1 {
+    width: 45%;
+    margin: auto;
+    
+}
+
+.box1 .box0_2 {
+    width: 38%;
+    margin: auto;
+    background-color: aqua;
+    padding: 2px 2px 4px 4px;
+    border: 2px solid #000;
+    margin: 2px 2px 2px 2px;
+   
+}
+
+.box0_2 img {
+    width: 200px;
+    margin: auto;
+}
+
+header {
+    background-color:darkcyan;
+    padding: 10px 10px 20px 20px;
+    text-align: center;
+}
+h2 {
+    color: blue;
+}
+
+.box2 {
+    width: 30%;
+    margin: auto;
+    border: 2px solid #000;
+    text-align: center;
+    background-color: darkcyan;
+}
+
+.box3 {
+    width: 22%;
+    margin: auto;
+    border: 2px solid #000;
+    text-align: center;
+    background-color: darkolivegreen;
+}
+
+.box4 {
+    width: 30%;
+    margin: 40px;
+    border: 2px solid #000;
+    text-align: center;
+    background-color: darkcyan;    
+}
+
+h3 {
+    border: 2px solid #000;
+    background-color: greenyellow;
+}
+
+.box5 {
+    width: 100%;
+    margin: auto;
+    border: 2px solid #000;
+    background-color:darkgray;
+}
+
+.box5 .box5_0 {
+    width: 50%;
+    margin: auto;
+
+}
+
+.box5 .box5_1 {
+    width: 50%;
+    margin: auto;
+}
+
+.box5_1 img {
+      width: 600px;
+      margin: auto;
+}
+
+h4 {
+    background-color: red;
+    display: inline-block;
+    font-size: larger;
+    border: 2px solid #000;
+}
+
+.box6 .box6_2 {
+    width: 30%;
+    margin: auto;
+    border: 3px solid #000;
+    background-color: darkolivegreen;
+}
+
+.box6 .box6_3 {
+    width: 30%;
+    margin: auto;
+    border: 3px solid #000;
+    background-color: darkolivegreen;
+}
+
+.box6 .box6_4 {
+    width: 30%;
+    margin: auto;
+    border: 3px solid #000;
+    background-color: darkolivegreen;
+}
+
+h5 {
+    font-size: larger;
+    color: deepskyblue;
+}
+
+.project3 {
+    background-color:white;
+}
+
+.project2 {
+    background-color:white;
+}
+
+.project1 {
+    background-color:white;
+}
+
+.box7 {
+    width: 100%;
+    margin: 50px;
+}
+
+.box7 .box7_1 {
+    width: 50%;
+    margin: auto;
+    font-size: larger;
+}
+
+.box7 .box7_2 {
+    width: 20%;
+    margin: auto;
+}
+
+.box7 .box7_2 {
+    width: 20%;
+    margin: auto;
+}
+
+.box7 .box7_3 {
+    width: 20%;
+    margin: auto;
+}
+
+.box7 .box7_3 {
+    width: 20%;
+    margin: auto;
+}
+.box7 img {
+    width: 200px;
+    margin: auto;
+    
+}
+
+h6 {
+    font-size: larger;
+}
+
